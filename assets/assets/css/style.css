@@ -21,7 +21,12 @@ body{
 
 /* Header */
 
-header {background-color: lightcoral;}
+header {
+    background-color: lightcoral;
+}
+h1 {
+    font-family: "Oswald", sans-serif;
+}
 
 /* Main Content */
 
